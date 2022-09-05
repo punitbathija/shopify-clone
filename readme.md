@@ -24,6 +24,7 @@
 - I made the webpage over five day's time and learned a lot about the popular framework `Tailwind-CSS`
 - The webpage itself was pretty lenghty and took me almost **14-16 Hours** to complete over four to five days
 
+## Preview
 ![Gif](./gifOne.gif)
 ![Gif](./gifTwo.gif)
 ![Gif](./gifThree.gif)
